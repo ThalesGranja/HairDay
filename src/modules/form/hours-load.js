@@ -9,7 +9,7 @@ export function hoursLoad({ date, dailySchedules }) {
   hours.innerHTML = "";
 
   // Obtém a lista de todos os horários reservados
-  const unavailableHours = dailySchedules.map((schedule) => dayjs(schedule.when).format("HH:mm"));
+  const unavailableHours = dailySchedules.map((schedule) => dayjs(schedule.when).format("H:mm"));
 
   const opening = openingHours.map((hour) => {
     // Recupera somente a hora
