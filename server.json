@@ -1,3 +1,29 @@
 {
-  "schedules": []
+  "schedules": [
+    {
+      "id": 1772587059089,
+      "name": "Erika Paccola",
+      "when": "2026-03-04T15:00:00.000Z"
+    },
+    {
+      "id": 1772589747359,
+      "name": "Kauan Pedreira",
+      "when": "2026-03-04T16:00:00.000Z"
+    },
+    {
+      "id": 1772589769887,
+      "name": "Matheus Madureira",
+      "when": "2026-03-04T23:00:00.000Z"
+    },
+    {
+      "id": 1772590577722,
+      "name": "Thales Granja",
+      "when": "2026-03-04T12:00:00.000Z"
+    },
+    {
+      "id": 1772591099512,
+      "name": "Luccas Maia",
+      "when": "2026-03-04T21:00:00.000Z"
+    }
+  ]
 }
